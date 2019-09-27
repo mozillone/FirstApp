@@ -1,0 +1,19 @@
+# Created at 2019-08-28T13:31:23.201
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Scripts\4195\workspace\FirstAPP\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2019-08-28T13:31:23.575
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2019-08-28T13:31:23.581
+WARNING: Illegal reflective access by org.testng.xml.XMLParser (file:/C:/Users/4195/.m2/repository/org/testng/testng/6.10/testng-6.10.jar) to constructor com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl()
+
+# Created at 2019-08-28T13:31:23.585
+WARNING: Please consider reporting this to the maintainers of org.testng.xml.XMLParser
+
+# Created at 2019-08-28T13:31:23.589
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2019-08-28T13:31:23.593
+WARNING: All illegal access operations will be denied in a future release
+

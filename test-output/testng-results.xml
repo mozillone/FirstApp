@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2047" started-at="2019-09-27T07:35:50Z" finished-at="2019-09-27T07:35:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2047" started-at="2019-09-27T07:35:50Z" finished-at="2019-09-27T07:35:52Z">
+      <class name="FirstApp.com.FirstAPP.Beta_Check_Availability_Api">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:FirstApp.com.FirstAPP.Beta_Check_Availability_Api@20322d26]" name="setBaseUri" is-config="true" duration-ms="330" started-at="2019-09-27T13:05:50Z" finished-at="2019-09-27T13:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="Verify_Beta_CheckAvailabilityApi()[pri:0, instance:FirstApp.com.FirstAPP.Beta_Check_Availability_Api@20322d26]" name="Verify_Beta_CheckAvailabilityApi" duration-ms="1703" started-at="2019-09-27T13:05:50Z" finished-at="2019-09-27T13:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Beta_CheckAvailabilityApi -->
+        <test-method status="PASS" signature="Quit()[pri:0, instance:FirstApp.com.FirstAPP.Beta_Check_Availability_Api@20322d26]" name="Quit" is-config="true" duration-ms="0" started-at="2019-09-27T13:05:52Z" finished-at="2019-09-27T13:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- FirstApp.com.FirstAPP.Beta_Check_Availability_Api -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="FirstApp.com.FirstAPP.Beta_Domain_Details_Api"/>
+      <class name="FirstApp.com.FirstAPP.Beta_Check_Availability_Api"/>
+      <class name="FirstApp.com.FirstAPP.Beta_MobileResponsiveApi"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

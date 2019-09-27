@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test name="Test(failed)">
+    <classes>
+      <class name="FirstApp.com.FirstAPP.Beta_Check_Availability_Api">
+        <methods>
+          <include name="Quit"/>
+          <include name="Verify_Beta_CheckAvailabilityApi"/>
+          <include name="setBaseUri"/>
+        </methods>
+      </class> <!-- FirstApp.com.FirstAPP.Beta_Check_Availability_Api -->
+      <class name="FirstApp.com.FirstAPP.Beta_MobileResponsiveApi">
+        <methods>
+          <include name="Quit"/>
+          <include name="setBaseUri"/>
+        </methods>
+      </class> <!-- FirstApp.com.FirstAPP.Beta_MobileResponsiveApi -->
+      <class name="FirstApp.com.FirstAPP.Beta_Domain_Details_Api">
+        <methods>
+          <include name="setBaseUri"/>
+        </methods>
+      </class> <!-- FirstApp.com.FirstAPP.Beta_Domain_Details_Api -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
